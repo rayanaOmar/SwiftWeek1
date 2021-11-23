@@ -11,12 +11,14 @@
 		84F57487274D0D310009B2B6 /* Swift Fundamentals 1 .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift Fundamentals 1 .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		84F57488274D0D670009B2B6 /* swiftFund2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = swiftFund2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		84F57489274D13BE0009B2B6 /* suits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = suits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		84F5748A274D19370009B2B6 /* HeadsorTails.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HeadsorTails.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		84F5747F274D0D0C0009B2B6 = {
 			isa = PBXGroup;
 			children = (
+				84F5748A274D19370009B2B6 /* HeadsorTails.playground */,
 				84F57489274D13BE0009B2B6 /* suits.playground */,
 				84F57488274D0D670009B2B6 /* swiftFund2.playground */,
 				84F57487274D0D310009B2B6 /* Swift Fundamentals 1 .playground */,

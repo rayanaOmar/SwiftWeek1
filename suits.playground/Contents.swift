@@ -10,5 +10,4 @@ for i in suits {
         deckOfCards[i]!.append(j)
     }
 }
-
 print(deckOfCards)
